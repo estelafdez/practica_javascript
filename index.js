@@ -251,3 +251,4 @@ function orders(numberconsole) {
             break;
     }
 }
+whaTodo()
